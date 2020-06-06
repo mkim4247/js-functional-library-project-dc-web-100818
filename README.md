@@ -1,4 +1,4 @@
-# Build a JS functional library
+ # Build a JS functional library
 
 ## Project guidelines
 
